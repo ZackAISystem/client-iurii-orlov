@@ -1,9 +1,9 @@
 {{ define "main" }}
-  {{ $slug := getenv "SITE_SLUG" }}
+  {{ $slug := getenv "HUGO_SITE_SLUG" }}
   {{ with site.GetPage (printf "/%s" $slug) }}
     {{ .Render "single" }}
   {{ else }}
-    <main class="zf-container" style="padding:80px 20px">
+    <main style="padding:80px 20px">
       <h1>Project page not found</h1>
       <p>Missing content for slug: <strong>{{ $slug }}</strong></p>
     </main>
