@@ -1,8 +1,51 @@
+cat > layouts/_default/home.html << 'EOF'
 {{ define "main" }}
-  {{ $slug := getenv "HUGO_SITE_SLUG" }}
-  {{ with site.GetPage (printf "/%s" $slug) }}
-    {{ .Render "single" }}
-  {{ else }}
-    {{ .Content }}
+<main>
+  {{ $page := . }}
+
+  {{/* 1) project_key берём из front matter главной (_index.md) */}}
+  {{ $key := $page.Params.project_key | default "" }}
+  {{ if eq $key "" }}
+    {{/* запасной вариант */}}
+    {{ $key = "unknown" }}
   {{ end }}
+
+  {{/* 2) данные проекта из data/projects/<key>.json */}}
+  {{ $project := index site.Data.projects $key }}
+  {{ if not $project }}{{ $project = dict }}{{ end }}
+
+  {{/* 3) блоки: берём из front matter */}}
+  {{ $blocks := $page.Params.blocks }}
+  {{ if not $blocks }}
+    {{/* fallback порядок, если blocks вдруг пустые */}}
+    {{ $blocks = slice
+      (dict "type" "header"          "block_variant" "header_default")
+      (dict "type" "hero"            "block_variant" "hero_default")
+      (dict "type" "project_info"    "block_variant" "project_info_default")
+      (dict "type" "amenities"       "block_variant" "amenities_default")
+      (dict "type" "project_gallery" "block_variant" "project_gallery_default")
+      (dict "type" "project_summary" "block_variant" "project_summary_default")
+      (dict "type" "units_gallery"   "block_variant" "units_gallery_default")
+      (dict "type" "map_section"     "block_variant" "map_section_default")
+      (dict "type" "contact_form"    "block_variant" "contact_form_default")
+      (dict "type" "footer"          "block_variant" "footer_default")
+    }}
+  {{ end }}
+
+  {{/* 4) рендерим блоки */}}
+  {{ range $index, $block := $blocks }}
+    {{ $t := (or $block.type $block.block_name) }}
+    {{ if $t }}
+      {{ partial (printf "blocks/%s.html" $t) (dict
+        "page" $page
+        "project" $project
+        "p" $project
+        "block" $block
+        "scope_index" $index
+        "project_key" $key
+      ) }}
+    {{ end }}
+  {{ end }}
+</main>
 {{ end }}
+EOF
