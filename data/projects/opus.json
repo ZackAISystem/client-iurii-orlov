@@ -1,0 +1,71 @@
+{
+  "project_name": "The Opus by Omniyat",
+
+  "hero_image": "/images/projects/opus/hero.jpg",
+  "intro_image": "/images/projects/opus/intro.jpg",
+
+  "qr_image": "/qr/opus-qr.png",
+
+  "hero_cta_text": "Learn More",
+  "hero_fact_1_label": "Delivery Date",
+  "hero_fact_1_value": "Completed",
+  "hero_fact_2_label": "Type",
+  "hero_fact_2_value": "Mixed-use Landmark",
+
+  "project_info_title": "Architectural Masterpiece in Business Bay",
+  "project_info_text": "The Opus by Omniyat is a sculptural mixed-use landmark in Business Bay designed in its entirety by Dame Zaha Hadid. Seamlessly integrating luxury residences, premium office spaces, and the iconic ME Dubai Hotel within a striking architectural form, Opus is both a destination and a signature address for living, working, and hospitality in Dubai.",
+
+  "amenities_title": "Iconic amenities and signature experiences",
+  "amenities_1": "/images/projects/opus/amenities_1.jpg",
+  "amenities_1_label": "ME Dubai Hotel",
+  "amenities_2": "/images/projects/opus/amenities_2.jpg",
+  "amenities_2_label": "Luxury Residences",
+  "amenities_3": "/images/projects/opus/amenities_3.jpg",
+  "amenities_3_label": "Prime Offices",
+
+  "gallery_1": "/images/projects/opus/gallery_1.jpg",
+  "gallery_2": "/images/projects/opus/gallery_2.jpg",
+  "gallery_3": "/images/projects/opus/gallery_3.jpg",
+
+  "project_summary_title": "Live, Work & Stay in a Futuristic Icon",
+  "project_summary_subtitle": "The Opus by Omniyat",
+
+  "summary_delivery_value": "Completed",
+  "summary_delivery_label": "Status",
+  "summary_developer_value": "Orlov Real Estate Brokers",
+  "summary_developer_label": "Officially Represented",
+  "summary_type_value": "Mixed-use",
+  "summary_type_label": "Property Type",
+  "summary_price_currency": "AED",
+  "summary_price_value": "-",
+  "summary_price_label": "Indicative",
+
+  "units_gallery_1": "/images/projects/opus/units_gallery_1.jpg",
+  "units_gallery_2": "/images/projects/opus/units_gallery_2.jpg",
+  "units_gallery_3": "/images/projects/opus/units_gallery_3.jpg",
+
+  "units_gallery_title": "Living, Office & Hospitality Spaces",
+  "units_bed_main": "-",
+  "units_bed_options": "-",
+  "units_price_from": "-",
+  "units_area_from": "-",
+  "units_cta_text": "Enquire Now",
+
+  "map_title": "Location\nin Dubai",
+  "map_text": "The Opus by Omniyat stands at the heart of Business Bay — a sculptural architectural marvel that defines modern Dubai skyline. With unparalleled access to Sheikh Zayed Road and key city hubs, Opus presents a rare opportunity for luxury living, working and hospitality under one iconic roof.",
+  "map_address": "Business Bay",
+  "map_lat": 25.1850,
+  "map_lng": 55.2710,
+
+  "final_image": "/images/projects/opus/final.jpg",
+
+  "contact_form_title": "Get in touch.",
+  "contact_form_phone_label": "Phone Number",
+  "contact_form_cta_text": "Enquire Now",
+
+  "footer_project_name": "The Opus by Omniyat",
+  "footer_phone": "+971 56 790 7776",
+  "footer_cta_text": "Contact us",
+  "footer_powered_text": "Powered by Zack AI",
+  "footer_tagline": "Iconic mixed-use landmark in Business Bay"
+}

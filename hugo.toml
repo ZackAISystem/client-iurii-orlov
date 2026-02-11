@@ -1,0 +1,8 @@
+baseURL = "http://localhost:1317/"
+languageCode = "en-us"
+title = "Iurii Orlov"
+
+disableKinds = ["taxonomy", "term", "RSS"]
+
+[params]
+  client_name = "Iurii Orlov"

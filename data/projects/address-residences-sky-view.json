@@ -1,0 +1,74 @@
+{
+  "project_name": "Address Residences Sky View",
+
+  "cta_whatsapp_phone": "971567907776",
+  "cta_whatsapp_message": "Hello, I am interested in Address Residences Sky View. Please contact me.",
+
+  "hero_image": "/images/projects/address-residences-sky-view/hero.jpg",
+  "intro_image": "/images/projects/address-residences-sky-view/intro.jpg",
+
+  "qr_image": "/qr/address-residences-sky-view-qr.png",
+
+  "hero_cta_text": "Learn More",
+  "hero_fact_1_label": "Property Type",
+  "hero_fact_1_value": "Serviced Apartments",
+  "hero_fact_2_label": "Location",
+  "hero_fact_2_value": "Downtown Dubai",
+
+  "project_info_title": "Iconic Serviced Residences in Downtown Dubai",
+  "project_info_text": "Address Residences Sky View offers a refined lifestyle in the heart of Downtown Dubai, directly connected to the Address Sky View Hotel. These fully serviced residences combine five-star hospitality with elegant private living, featuring panoramic views of Burj Khalifa and the Dubai skyline.",
+
+  "amenities_title": "World-class hotel amenities and lifestyle services",
+  "amenities_1": "/images/projects/address-residences-sky-view/amenities_1.jpg",
+  "amenities_1_label": "Infinity Pool with Burj Khalifa View",
+  "amenities_2": "/images/projects/address-residences-sky-view/amenities_2.jpg",
+  "amenities_2_label": "Spa & Wellness Facilities",
+  "amenities_3": "/images/projects/address-residences-sky-view/amenities_3.jpg",
+  "amenities_3_label": "Concierge & Hotel Services",
+
+  "gallery_1": "/images/projects/address-residences-sky-view/gallery_1.jpg",
+  "gallery_2": "/images/projects/address-residences-sky-view/gallery_2.jpg",
+  "gallery_3": "/images/projects/address-residences-sky-view/gallery_3.jpg",
+
+  "project_summary_title": "Luxury Living Above Downtown Dubai",
+  "project_summary_subtitle": "Hotel-branded residences with iconic views",
+
+  "summary_delivery_value": "Ready",
+  "summary_delivery_label": "Completion Status",
+  "summary_developer_value": "Orlov Real Estate Brokers",
+  "summary_developer_label": "Officially Represented",
+  "summary_type_value": "Apartment",
+  "summary_type_label": "Property Type",
+  "summary_price_currency": "AED",
+  "summary_price_value": "-",
+  "summary_price_label": "Starting Price",
+
+  "units_gallery_1": "/images/projects/address-residences-sky-view/units_gallery_1.jpg",
+  "units_gallery_2": "/images/projects/address-residences-sky-view/units_gallery_2.jpg",
+  "units_gallery_3": "/images/projects/address-residences-sky-view/units_gallery_3.jpg",
+
+  "units_gallery_title": "Available Residences",
+  "units_bed_main": "1 Bedroom",
+  "units_bed_options": "2|3",
+  "units_price_from": "AED -",
+  "units_area_from": "From - SQFT",
+  "units_cta_text": "Enquire Now",
+
+  "map_title": "Location\nin Dubai",
+  "map_text": "Located in Downtown Dubai, Address Residences Sky View offers immediate access to Burj Khalifa, Dubai Mall, DIFC, and Sheikh Zayed Road. Residents enjoy seamless connectivity combined with the prestige of a globally recognized luxury hotel brand.",
+  "map_address": "Downtown Dubai",
+  "map_lat": 25.2009,
+  "map_lng": 55.2744,
+
+  "final_image": "/images/projects/address-residences-sky-view/final.jpg",
+
+  "contact_form_title": "Let’s talk real estate.",
+  "contact_form_phone_label": "Phone Number",
+  "contact_form_cta_text": "Enquire Now",
+
+  "footer_project_name": "Address Residences Sky View",
+  "footer_phone": "+971 56 790 7776",
+  "footer_cta_text": "Contact us",
+  "footer_powered_text": "Powered by Zack AI",
+  "footer_tagline": "Luxury serviced residences in Downtown Dubai"
+}

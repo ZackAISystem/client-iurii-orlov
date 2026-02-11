@@ -1,0 +1,64 @@
+{{/* Robust CSS tokens loader (CSV) -> :root { --x: y; } */}}
+
+{{ $res := resources.Get "design_system/design_tokens.csv" }}
+{{ if not $res }}{{ return }}{{ end }}
+
+{{/* IMPORTANT: make $rows never be nil, so len() is always safe */}}
+{{ $rows := $res | transform.Unmarshal (dict "delimiter" "," "lazyQuotes" true) | default (slice) }}
+{{ if lt (len $rows) 1 }}{{ return }}{{ end }}
+
+{{ $out := "" }}
+
+{{/* Case 1: rows are maps */}}
+{{ if eq (printf "%T" (index $rows 0)) "map[string]interface {}" }}
+  {{ range $rows }}
+    {{ $v := "" }}
+    {{ $val := "" }}
+
+    {{ with (index . "css_var") }}{{ $v = strings.TrimSpace (printf "%v" .) }}{{ end }}
+    {{ with (index . "css_value") }}{{ $val = strings.TrimSpace (printf "%v" .) }}{{ end }}
+
+    {{ $v = replace $v "\ufeff" "" }}
+    {{ $val = replace $val "\ufeff" "" }}
+    {{ $v = replace $v "\r" "" }}
+    {{ $val = replace $val "\r" "" }}
+
+    {{ if and (ne $v "") (ne $val "") }}
+      {{ $out = printf "%s%s: %s;\n" $out $v $val }}
+    {{ end }}
+  {{ end }}
+
+{{/* Case 2: rows are arrays */}}
+{{ else }}
+  {{ if lt (len $rows) 2 }}{{ return }}{{ end }}
+
+  {{ $header := index $rows 0 }}
+  {{ $idxVar := -1 }}
+  {{ $idxVal := -1 }}
+
+  {{ range $i, $h := $header }}
+    {{ $hh := replace (strings.TrimSpace (printf "%v" $h)) "\ufeff" "" }}
+    {{ if eq $hh "css_var" }}{{ $idxVar = $i }}{{ end }}
+    {{ if eq $hh "css_value" }}{{ $idxVal = $i }}{{ end }}
+  {{ end }}
+
+  {{ if or (lt $idxVar 0) (lt $idxVal 0) }}{{ return }}{{ end }}
+
+  {{ range (after 1 $rows) }}
+    {{ $r := . | default (slice) }}
+    {{ if and (ge (len $r) (add $idxVar 1)) (ge (len $r) (add $idxVal 1)) }}
+      {{ $v := replace (strings.TrimSpace (printf "%v" (index $r $idxVar))) "\ufeff" "" }}
+      {{ $val := replace (strings.TrimSpace (printf "%v" (index $r $idxVal))) "\ufeff" "" }}
+      {{ $v = replace $v "\r" "" }}
+      {{ $val = replace $val "\r" "" }}
+
+      {{ if and (ne $v "") (ne $val "") }}
+        {{ $out = printf "%s%s: %s;\n" $out $v $val }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ if eq (strings.TrimSpace $out) "" }}{{ return }}{{ end }}
+
+<style id="zf-design-tokens">{{ printf ":root{\n%s}\n" $out | safeCSS }}</style>
