@@ -1,0 +1,74 @@
+{
+  "project_name": "Bay Grove",
+
+  "cta_whatsapp_phone": "971545486278",
+  "cta_whatsapp_message": "Hello, I am interested in Bay Grove. Please contact me.",
+  "whatsapp_url": "https://wa.me/971545486278?text=Hello%2C%20I%20am%20interested%20in%20Bay%20Grove.%20Please%20contact%20me.",
+
+  "hero_image": "/images/projects/bay-grove/hero.png",
+  "intro_image": "/images/projects/bay-grove/intro.png",
+  "qr_image": "/qr/bay-grove-qr.png",
+
+  "hero_cta_text": "Learn More",
+  "hero_fact_1_label": "Delivery Date",
+  "hero_fact_1_value": "March 2028",
+  "hero_fact_2_label": "Price from",
+  "hero_fact_2_value": "AED 1,900,000",
+
+  "project_info_title": "Tranquil Living at Bay Grove Deira",
+  "project_info_text": "Crafted for those with a taste for refinement, Bay Grove weaves serene natural elements with sophisticated architecture. Nestled in the vibrant Dubai Islands, these residences celebrate a lifestyle of comfort and community, offering a serene escape amid the dynamic rhythm of city life.",
+
+  "amenities_title": "Infrastructure and landscaping of the residential complex",
+  "amenities_1": "/images/projects/bay-grove/amenities_1.png",
+  "amenities_1_label": "",
+  "amenities_2": "/images/projects/bay-grove/amenities_2.png",
+  "amenities_2_label": "",
+  "amenities_3": "/images/projects/bay-grove/amenities_3.png",
+  "amenities_3_label": "",
+
+  "gallery_1": "/images/projects/bay-grove/gallery_1.png",
+  "gallery_2": "/images/projects/bay-grove/gallery_2.png",
+  "gallery_3": "/images/projects/bay-grove/gallery_3.png",
+
+  "project_summary_title": "Island Living Amidst Dubai's Energy",
+  "project_summary_subtitle": "Elegant Designs for Contemporary Lifestyles",
+
+  "summary_delivery_value": "March 2028",
+  "summary_delivery_label": "Delivery Date",
+  "summary_developer_value": "",
+  "summary_developer_label": "",
+  "summary_type_value": "Apartment, Penthouse",
+  "summary_type_label": "Property Type",
+  "summary_price_currency": "AED",
+  "summary_price_value": "1,900,000",
+  "summary_price_label": "Starting Price",
+
+  "units_gallery_1": "/images/projects/bay-grove/units_gallery_1.png",
+  "units_gallery_2": "/images/projects/bay-grove/units_gallery_2.png",
+  "units_gallery_3": "/images/projects/bay-grove/units_gallery_3.png",
+
+  "units_gallery_title": "Available Units",
+  "units_bed_main": "1 Bedroom",
+  "units_bed_options": "2|3|4",
+  "units_price_from": "AED 1,900,000",
+  "units_area_from": "From 871 sqft",
+  "units_cta_text": "Enquire Now",
+
+  "map_title": "Location\nin Dubai",
+  "map_text": "Amidst the architectural wonders of Deira, Bay Grove Residences offers an oasis of tranquility and luxury within Dubai Islands. Experience the perfect blend of cosmopolitan vitality and serene waterfront vistas, a locale where lush promenades weave between modern elegance, and where the city’s vibrancy meets nature’s magnificence.",
+  "map_address": "Deira, Dubai Islands, Bay Grove Residences",
+  "map_lat": 25.308938,
+  "map_lng": 55.31662,
+
+  "final_image": "/images/projects/bay-grove/final.png",
+
+  "contact_form_title": "Let’s connect.",
+  "contact_form_phone_label": "Phone number",
+  "contact_form_cta_text": "Enquire Now",
+
+  "footer_project_name": "Bay Grove",
+  "footer_phone": "+971 54 548 6278",
+  "footer_cta_text": "Contact us",
+  "footer_powered_text": "Powered by Zack AI",
+  "footer_tagline": "Tranquil living in Dubai Islands by Nakheel"
+}

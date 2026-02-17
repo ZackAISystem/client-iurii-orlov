@@ -1,0 +1,74 @@
+{
+  "project_name": "Ellington Cove",
+
+  "cta_whatsapp_phone": "971545486278",
+  "cta_whatsapp_message": "Hello, I am interested in Ellington Cove. Please contact me.",
+  "whatsapp_url": "https://wa.me/971545486278?text=Hello%2C%20I%20am%20interested%20in%20Ellington%20Cove.%20Please%20contact%20me.",
+
+  "hero_image": "/images/projects/ellington-cove/hero.png",
+  "intro_image": "/images/projects/ellington-cove/intro.png",
+  "final_image": "/images/projects/ellington-cove/final.png",
+
+  "qr_image": "/qr/ellington-cove-qr.png",
+
+  "hero_cta_text": "Learn More",
+  "hero_fact_1_label": "Delivery Date",
+  "hero_fact_1_value": "June 2028",
+  "hero_fact_2_label": "Price from",
+  "hero_fact_2_value": "AED 1,900,000",
+
+  "project_info_title": "Architectural elegance on Dubai Islands",
+  "project_info_text": "Ellington Cove is an exclusive residential development by Ellington Properties, offering waterfront luxury living on Dubai Islands. Crafted with modern architecture and complemented by natural beauty, it provides a sophisticated lifestyle that combines elegance, innovation, and tranquility.\n\nBetween the sea and the city, Ellington Cove emerges as a serene enclave in Deira, where breathtaking ocean and skyline views merge with refined interiors and contemporary living spaces.",
+
+  "amenities_title": "Infrastructure and landscaping of the residential complex",
+  "amenities_1": "/images/projects/ellington-cove/amenities_1.png",
+  "amenities_1_label": "Infinity Pool",
+  "amenities_2": "/images/projects/ellington-cove/amenities_2.png",
+  "amenities_2_label": "Fitness Studio",
+  "amenities_3": "/images/projects/ellington-cove/amenities_3.png",
+  "amenities_3_label": "Landscaped Waterfront Promenade",
+
+  "gallery_1": "/images/projects/ellington-cove/gallery_1.png",
+  "gallery_2": "/images/projects/ellington-cove/gallery_2.png",
+  "gallery_3": "/images/projects/ellington-cove/gallery_3.png",
+
+  "project_summary_title": "Waterfront living by Ellington",
+  "project_summary_subtitle": "Luxury residences on Dubai Islands",
+
+  "summary_delivery_value": "June 2028",
+  "summary_delivery_label": "Delivery Date",
+  "summary_developer_value": "Ellington",
+  "summary_developer_label": "Master Developer",
+  "summary_type_value": "Apartment, Duplex, Penthouse",
+  "summary_type_label": "Property Type",
+  "summary_price_currency": "AED",
+  "summary_price_value": "1,900,000",
+  "summary_price_label": "Starting Price",
+
+  "units_gallery_1": "/images/projects/ellington-cove/units_gallery_1.png",
+  "units_gallery_2": "/images/projects/ellington-cove/units_gallery_2.png",
+  "units_gallery_3": "/images/projects/ellington-cove/units_gallery_3.png",
+
+  "units_gallery_title": "Available Units",
+  "units_bed_main": "1 Bedroom",
+  "units_bed_options": "2|3|4",
+  "units_price_from": "AED 1,900,000",
+  "units_area_from": "From 816 SQFT",
+  "units_cta_text": "Book a consultation",
+
+  "map_title": "Location\nin Dubai",
+  "map_text": "Ellington Cove is located in Deira, Dubai Islands — a premium waterfront destination where urban energy meets coastal serenity. The development offers proximity to central Dubai while preserving a peaceful island atmosphere surrounded by beaches and landscaped promenades.",
+  "map_address": "Deira, Dubai Islands, Ellington Cove",
+  "map_lat": 25.197201,
+  "map_lng": 55.318503,
+
+  "contact_form_title": "Get in touch.",
+  "contact_form_phone_label": "Phone number",
+  "contact_form_cta_text": "Enquire Now",
+
+  "footer_project_name": "Ellington Cove",
+  "footer_phone": "+971 54 548 6278",
+  "footer_cta_text": "Contact us",
+  "footer_powered_text": "Powered by Zack AI",
+  "footer_tagline": "Luxury waterfront residences on Dubai Islands"
+}

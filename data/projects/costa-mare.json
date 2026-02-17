@@ -1,0 +1,74 @@
+{
+  "project_name": "Costa Mare",
+
+  "cta_whatsapp_phone": "971545486278",
+  "cta_whatsapp_message": "Hello, I am interested in Costa Mare. Please contact me.",
+  "whatsapp_url": "https://wa.me/971545486278?text=Hello%2C%20I%20am%20interested%20in%20Costa%20Mare.%20Please%20contact%20me.",
+
+  "hero_image": "/images/projects/costa-mare/hero.png",
+  "intro_image": "/images/projects/costa-mare/intro.png",
+  "qr_image": "/qr/costa-mare-qr.png",
+
+  "hero_cta_text": "Learn More",
+  "hero_fact_1_label": "Delivery Date",
+  "hero_fact_1_value": "September 2028",
+  "hero_fact_2_label": "Price from",
+  "hero_fact_2_value": "AED 2,100,000",
+
+  "project_info_title": "Scenic Coastal Retreat on Al Marjan Island",
+  "project_info_text": "Experience the epitome of beachfront elegance at Costa Mare, where sophisticated design meets the serene natural allure of Al Marjan Island. Unwind in beautifully curated residences offering uninterrupted Persian Gulf vistas, complemented by luxurious amenities for an unmatched coastal lifestyle.\n\nCosta Mare by Ellington is a waterfront residential development in Ras Al Khaimah. Designed for luxury and tranquility, this contemporary project features premium residences with stunning sea views, high-end finishes, and spacious layouts. Positioned along pristine beaches, Costa Mare offers direct access to world-class leisure destinations, ensuring an unmatched coastal lifestyle.",
+
+  "amenities_title": "Amenities and spaces designed for refined living",
+  "amenities_1": "/images/projects/costa-mare/amenities_1.png",
+  "amenities_1_label": "Infinity Pool",
+  "amenities_2": "/images/projects/costa-mare/amenities_2.png",
+  "amenities_2_label": "Private Beach Access",
+  "amenities_3": "/images/projects/costa-mare/amenities_3.png",
+  "amenities_3_label": "Fully Equipped Gym",
+
+  "gallery_1": "/images/projects/costa-mare/gallery_1.png",
+  "gallery_2": "/images/projects/costa-mare/gallery_2.png",
+  "gallery_3": "/images/projects/costa-mare/gallery_3.png",
+
+  "project_summary_title": "Coastal Elegance on Al Marjan Island",
+  "project_summary_subtitle": "Inspired Living with Timeless Architecture",
+
+  "summary_delivery_value": "September 2028",
+  "summary_delivery_label": "Delivery Date",
+  "summary_developer_value": "Ellington",
+  "summary_developer_label": "Master Developer",
+  "summary_type_value": "Apartment, Duplex, Penthouse, Villa",
+  "summary_type_label": "Property Type",
+  "summary_price_currency": "AED",
+  "summary_price_value": "2,100,000",
+  "summary_price_label": "Starting Price",
+
+  "units_gallery_1": "/images/projects/costa-mare/units_gallery_1.png",
+  "units_gallery_2": "/images/projects/costa-mare/units_gallery_2.png",
+  "units_gallery_3": "/images/projects/costa-mare/units_gallery_3.png",
+
+  "units_gallery_title": "Exclusive Residences",
+  "units_bed_main": "Studio",
+  "units_bed_options": "1–3",
+  "units_price_from": "AED 2,100,000",
+  "units_area_from": "393–3181 SQFT",
+  "units_cta_text": "Enquire Now",
+
+  "map_title": "Location\nin Ras Al Khaimah",
+  "map_text": "Set amid the picturesque Al Marjan Island, Costa Mare offers an exquisite blend of luxurious living and serene coastal lifestyle. Surrounded by pristine beaches and azure waters, this Ellington development invites you to explore nearby leisure havens, elegant resorts, and vibrant dining scenes.\n\nStrategically located on Al Marjan Island, the project ensures seamless connectivity while preserving a tranquil island atmosphere.",
+  "map_address": "Al Marjan Island, Ras Al Khaimah, UAE",
+  "map_lat": 25.7967,
+  "map_lng": 55.9393,
+
+  "final_image": "/images/projects/costa-mare/final.png",
+
+  "contact_form_title": "Need more details?",
+  "contact_form_phone_label": "Phone number",
+  "contact_form_cta_text": "Enquire Now",
+
+  "footer_project_name": "Costa Mare",
+  "footer_phone": "+971 54 548 6278",
+  "footer_cta_text": "Contact us",
+  "footer_powered_text": "Powered by Zack AI",
+  "footer_tagline": "Luxury beachfront residences on Al Marjan Island"
+}

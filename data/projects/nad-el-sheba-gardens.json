@@ -1,0 +1,74 @@
+{
+  "project_name": "Nad El Sheba Gardens",
+
+  "cta_whatsapp_phone": "971545486278",
+  "cta_whatsapp_message": "Hello, I am interested in Nad El Sheba Gardens. Please contact me.",
+  "whatsapp_url": "https://wa.me/971545486278?text=Hello%2C%20I%20am%20interested%20in%20Nad%20El%20Sheba%20Gardens.%20Please%20contact%20me.",
+
+  "hero_image": "/images/projects/nad-el-sheba-gardens/hero.png",
+  "intro_image": "/images/projects/nad-el-sheba-gardens/intro.png",
+  "final_image": "/images/projects/nad-el-sheba-gardens/final.png",
+
+  "qr_image": "/qr/nad-el-sheba-gardens-qr.png",
+
+  "hero_cta_text": "Learn More",
+  "hero_fact_1_label": "Delivery Date",
+  "hero_fact_1_value": "Q1 2029",
+  "hero_fact_2_label": "Price from",
+  "hero_fact_2_value": "AED 9,500,000",
+
+  "project_info_title": "Premium Family Villas in Nad Al Sheba",
+  "project_info_text": "Nad El Sheba Gardens Phase 9 is an exclusive gated community by Meraas, offering a refined collection of 3 to 7-bedroom townhouses and villas in the prestigious Meydan district.\n\nDesigned for modern family living, the project blends contemporary architecture with lush landscaping, private gardens, pocket parks, and open green spaces. With seamless connectivity to Downtown Dubai and major highways, residents enjoy privacy, security, and effortless access to the city’s key destinations.",
+
+  "amenities_title": "Amenities and spaces designed for refined living",
+  "amenities_1": "/images/projects/nad-el-sheba-gardens/amenities_1.png",
+  "amenities_1_label": "Crystal Lagoon & Wave Pool",
+  "amenities_2": "/images/projects/nad-el-sheba-gardens/amenities_2.png",
+  "amenities_2_label": "Jogging & Cycling Tracks",
+  "amenities_3": "/images/projects/nad-el-sheba-gardens/amenities_3.png",
+  "amenities_3_label": "Clubhouse & Community Lawn",
+
+  "gallery_1": "/images/projects/nad-el-sheba-gardens/gallery_1.png",
+  "gallery_2": "/images/projects/nad-el-sheba-gardens/gallery_2.png",
+  "gallery_3": "/images/projects/nad-el-sheba-gardens/gallery_3.png",
+
+  "project_summary_title": "Gated Villas in Meydan",
+  "project_summary_subtitle": "Nature-inspired family living in central Dubai",
+
+  "summary_delivery_value": "March 2029",
+  "summary_delivery_label": "Delivery Date",
+  "summary_developer_value": "Meraas",
+  "summary_developer_label": "Developer",
+  "summary_type_value": "Townhouses & Villas",
+  "summary_type_label": "Property Type",
+  "summary_price_currency": "AED",
+  "summary_price_value": "9,500,000",
+  "summary_price_label": "Starting Price",
+
+  "units_gallery_1": "/images/projects/nad-el-sheba-gardens/units_gallery_1.png",
+  "units_gallery_2": "/images/projects/nad-el-sheba-gardens/units_gallery_2.png",
+  "units_gallery_3": "/images/projects/nad-el-sheba-gardens/units_gallery_3.png",
+
+  "units_gallery_title": "Available Residences",
+  "units_bed_main": "3",
+  "units_bed_options": "4|5|6|7",
+  "units_price_from": "AED 9,500,000",
+  "units_area_from": "From 2,705 SQFT",
+  "units_cta_text": "Book a consultation",
+
+  "map_title": "Location\nin Dubai",
+  "map_text": "Located in Nad Al Sheba 1, Meydan, the community offers direct access to Al Ain Road and Al Khail Road. Downtown Dubai and Burj Khalifa are approximately 10 minutes away, while Dubai International Airport is reachable within 15 minutes.",
+  "map_address": "Nad Al Sheba 1, Meydan, Dubai",
+  "map_lat": 25.1645,
+  "map_lng": 55.3023,
+
+  "contact_form_title": "Need more details?",
+  "contact_form_phone_label": "Phone number",
+  "contact_form_cta_text": "Enquire Now",
+
+  "footer_project_name": "Nad El Sheba Gardens",
+  "footer_phone": "+971 54 548 6278",
+  "footer_cta_text": "Contact us",
+  "footer_powered_text": "Powered by Zack AI",
+  "footer_tagline": "Premium villas in Nad Al Sheba"
+}

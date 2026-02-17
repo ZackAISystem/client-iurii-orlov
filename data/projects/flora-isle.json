@@ -1,0 +1,74 @@
+{
+  "project_name": "Flora Isle",
+
+  "cta_whatsapp_phone": "971545486278",
+  "cta_whatsapp_message": "Hello, I am interested in Flora Isle. Please contact me.",
+  "whatsapp_url": "https://wa.me/971545486278?text=Hello%2C%20I%20am%20interested%20in%20Flora%20Isle.%20Please%20contact%20me.",
+
+  "hero_image": "/images/projects/flora-isle/hero.png",
+  "intro_image": "/images/projects/flora-isle/intro.png",
+  "final_image": "/images/projects/flora-isle/final.png",
+
+  "qr_image": "/qr/flora-isle-qr.png",
+
+  "hero_cta_text": "Learn More",
+  "hero_fact_1_label": "Delivery Date",
+  "hero_fact_1_value": "January 2028",
+  "hero_fact_2_label": "Price from",
+  "hero_fact_2_value": "AED 2,100,000",
+
+  "project_info_title": "Exclusive coastal retreat on Dubai Islands",
+  "project_info_text": "Flora Isle unveils a lifestyle of tranquility where luxurious design meets the serenity of the sea. Located on Dubai Islands in Deira, the project offers refined apartments that blend modern elegance with world-class amenities and captivating waterfront views.\n\nThis island sanctuary harmonizes urban vitality with coastal calm, creating a sophisticated residential experience in one of Dubai’s emerging premium waterfront destinations.",
+
+  "amenities_title": "Infrastructure and landscaping of the residential complex",
+  "amenities_1": "/images/projects/flora-isle/amenities_1.png",
+  "amenities_1_label": "Infinity Pool",
+  "amenities_2": "/images/projects/flora-isle/amenities_2.png",
+  "amenities_2_label": "Fitness Center",
+  "amenities_3": "/images/projects/flora-isle/amenities_3.png",
+  "amenities_3_label": "Landscaped Gardens",
+
+  "gallery_1": "/images/projects/flora-isle/gallery_1.png",
+  "gallery_2": "/images/projects/flora-isle/gallery_2.png",
+  "gallery_3": "/images/projects/flora-isle/gallery_3.png",
+
+  "project_summary_title": "Island sanctuary in vibrant Deira",
+  "project_summary_subtitle": "Refined waterfront apartments by Flora Realty",
+
+  "summary_delivery_value": "January 2028",
+  "summary_delivery_label": "Delivery Date",
+  "summary_developer_value": "Flora Realty",
+  "summary_developer_label": "Master Developer",
+  "summary_type_value": "Apartment",
+  "summary_type_label": "Property Type",
+  "summary_price_currency": "AED",
+  "summary_price_value": "2,100,000",
+  "summary_price_label": "Starting Price",
+
+  "units_gallery_1": "/images/projects/flora-isle/units_gallery_1.png",
+  "units_gallery_2": "/images/projects/flora-isle/units_gallery_2.png",
+  "units_gallery_3": "/images/projects/flora-isle/units_gallery_3.png",
+
+  "units_gallery_title": "Available Units",
+  "units_bed_main": "1 Bedroom",
+  "units_bed_options": "2|3",
+  "units_price_from": "AED 2,100,000",
+  "units_area_from": "Available on request",
+  "units_cta_text": "Book a consultation",
+
+  "map_title": "Location\nin Dubai",
+  "map_text": "Flora Isle is located in Deira, Dubai Islands — a fast-growing waterfront district that combines beachside tranquility with convenient access to central Dubai. Residents enjoy proximity to key city landmarks while living in a peaceful island environment.",
+  "map_address": "Deira, Dubai Islands, Flora Isle",
+  "map_lat": 25.197201,
+  "map_lng": 55.318503,
+
+  "contact_form_title": "Looking for more?",
+  "contact_form_phone_label": "Phone number",
+  "contact_form_cta_text": "Enquire Now",
+
+  "footer_project_name": "Flora Isle",
+  "footer_phone": "+971 54 548 6278",
+  "footer_cta_text": "Contact us",
+  "footer_powered_text": "Powered by Zack AI",
+  "footer_tagline": "Luxury waterfront apartments on Dubai Islands"
+}

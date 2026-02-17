@@ -1,0 +1,72 @@
+{
+  "project_name": "Sierra",
+  "cta_whatsapp_phone": "971545486278",
+  "cta_whatsapp_message": "Hello, I am interested in Sierra. Please contact me.",
+  "hero_image": "/images/projects/sierra/hero.png",
+  "intro_image": "/images/projects/sierra/intro.png",
+  "qr_image": "/qr/sierra-qr.png",
+  "hero_cta_text": "Learn More",
+  "hero_fact_1_label": "Delivery Date",
+  "hero_fact_1_value": "January 2029",
+  "hero_fact_2_label": "Price from",
+  "hero_fact_2_value": "AED 799,000",
+
+  "project_info_title": "Modern residential tower in Dubai Motor City",
+  "project_info_text": "Sierra by Iman Developers is a contemporary high-rise located in the heart of Dubai Motor City, offering a balanced lifestyle between urban vibrancy and landscaped surroundings. The 41-storey tower features a curated collection of studios, 1–2 bedroom apartments, and spacious duplex residences designed for modern living.\n\nWith clean architectural lines, generous layouts, and access to a dedicated amenity deck, Sierra creates a refined residential experience. Positioned within a well-established community known for green parks, retail promenades, and the Dubai Autodrome, the project appeals to both end-users and investors seeking long-term value in a dynamic district.",
+
+  "amenities_title": "Infrastructure and landscaping of the residential complex",
+  "amenities_1": "/images/projects/sierra/amenities_1.png",
+  "amenities_1_label": "Infinity Pool & Wellness Deck",
+  "amenities_2": "/images/projects/sierra/amenities_2.png",
+  "amenities_2_label": "Fitness Center & Family Spaces",
+  "amenities_3": "/images/projects/sierra/amenities_3.png",
+  "amenities_3_label": "Landscaped Gardens & Retail Units",
+
+  "gallery_1": "/images/projects/sierra/gallery_1.png",
+  "gallery_2": "/images/projects/sierra/gallery_2.png",
+  "gallery_3": "/images/projects/sierra/gallery_3.png",
+
+  "project_summary_title": "Elevated living in Motor City",
+  "project_summary_subtitle": "Studios, apartments and duplex residences",
+
+  "summary_delivery_value": "January 2029",
+  "summary_delivery_label": "Delivery Date",
+  "summary_developer_value": "Iman Developers",
+  "summary_developer_label": "Master Developer",
+  "summary_type_value": "Apartment, Duplex",
+  "summary_type_label": "Property Type",
+  "summary_price_currency": "AED",
+  "summary_price_value": "799,000",
+  "summary_price_label": "Starting Price",
+
+  "units_gallery_1": "/images/projects/sierra/units_gallery_1.png",
+  "units_gallery_2": "/images/projects/sierra/units_gallery_2.png",
+  "units_gallery_3": "/images/projects/sierra/units_gallery_3.png",
+
+  "units_gallery_title": "Available Units",
+  "units_bed_main": "Studio",
+  "units_bed_options": "1|2|4",
+  "units_price_from": "AED 799,000",
+  "units_area_from": "On request",
+  "units_cta_text": "Book a consultation",
+
+  "map_title": "Location\nin Dubai",
+  "map_text": "Located in Dubai Motor City, Sierra enjoys proximity to the Dubai Autodrome, Business Park, schools, parks, and retail destinations. The community offers a relaxed suburban atmosphere while maintaining convenient access to major road networks and key business districts.",
+  "map_address": "Motor City, Dubai, UAE",
+  "map_lat": 25.0467,
+  "map_lng": 55.2260,
+
+  "final_image": "/images/projects/sierra/final.png",
+
+  "contact_form_title": "Let’s connect.",
+  "contact_form_phone_label": "Phone number",
+  "contact_form_cta_text": "Enquire Now",
+
+  "footer_project_name": "Sierra",
+  "footer_phone": "+971 54 548 6278",
+  "footer_cta_text": "Contact us",
+  "footer_powered_text": "Powered by Zack AI",
+  "footer_tagline": "Contemporary residences in Dubai Motor City",
+
+  "whatsapp_url": "https://wa.me/971545486278?text=Hello%2C%20I%20am%20interested%20in%20Sierra.%20Please%20contact%20me."
+}

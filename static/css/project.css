@@ -89,34 +89,6 @@ img { max-width: 100%; height: auto; }
   color: var(--color-text-inverse, rgba(255,255,255,1));
 }
 
-/* ===== Header QR ===== */
-/* ✅ QR НЕ участвует во flex-раскладке и не двигает меню */
-.zf-header__qr{
-  position: absolute;
-  top: var(--spacing-header-inset-top, 0px);  /* верх QR на уровне меню */
-  right: 70px;                                 /* ✅ 70px от правого края ЭКРАНА */
-  width: 120px;
-  height: 120px;
-  display: block;
-  z-index: 60;
-}
-
-.zf-header__qr img{
-  width: 100%;
-  height: 100%;
-  display: block;
-}
-
-/* MOBILE */
-@media (max-width: 900px){
-  .zf-header__qr{
-    width: 72px;
-    height: 72px;
-    right: 16px;
-    top: 12px;
-  }
-}
-
 /* ===== Hero ===== */
 .zf-hero{
  position: relative;

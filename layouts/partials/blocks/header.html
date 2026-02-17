@@ -14,29 +14,7 @@
   "scope_class" $scope
 ) }}
 
-{{/* QR: prefer page params, fallback to data */}}
-{{ $qr := "" }}
-{{ with $page.Params.qr_image }}{{ $qr = . }}{{ end }}
-{{ if and (eq $qr "") $p (isset $p "qr_image") }}{{ $qr = $p.qr_image }}{{ end }}
-
-{{/* normalize ONLY legacy "/img/" and accidental "/static/" */}}
-{{ if $qr }}
-  {{ $qr = trim $qr " \n\r\t" }}
-  {{ if hasPrefix $qr "/static/" }}
-    {{ $qr = replace $qr "/static/" "/" }}
-  {{ end }}
-  {{ if hasPrefix $qr "/img/" }}
-    {{ $qr = replace $qr "/img/" "/images/projects/" }}
-  {{ end }}
-{{ end }}
-
 <header id="site-header" class="zf-header {{ $scope }}">
-  {{ if $qr }}
-    <a class="zf-header__qr" href="{{ $qr | relURL }}" target="_blank" rel="noopener" aria-label="Open QR code">
-      <img src="{{ $qr | relURL }}" alt="QR code">
-    </a>
-  {{ end }}
-
   <div class="zf-container">
     <div class="zf-header__inner">
       <nav aria-label="Primary navigation">
@@ -50,3 +28,4 @@
     </div>
   </div>
 </header>
+

@@ -1,0 +1,74 @@
+{
+  "project_name": "Me Do Re Business",
+
+  "cta_whatsapp_phone": "971545486278",
+  "cta_whatsapp_message": "Hello, I am interested in Me Do Re Business. Please contact me.",
+  "whatsapp_url": "https://wa.me/971545486278?text=Hello%2C%20I%20am%20interested%20in%20Me%20Do%20Re%20Business.%20Please%20contact%20me.",
+
+  "hero_image": "/images/projects/me-do-re-business/hero.png",
+  "intro_image": "/images/projects/me-do-re-business/intro.png",
+  "final_image": "/images/projects/me-do-re-business/final.png",
+
+  "qr_image": "/qr/me-do-re-business-qr.png",
+
+  "hero_cta_text": "Learn More",
+  "hero_fact_1_label": "Delivery Date",
+  "hero_fact_1_value": "Q4 2026",
+  "hero_fact_2_label": "Price from",
+  "hero_fact_2_value": "AED 1,100,000",
+
+  "project_info_title": "Smart Commercial Spaces in Jumeirah Lake Towers",
+  "project_info_text": "Me Do Re Business is a premium commercial development located in Jumeirah Lake Towers (JLT), Dubai. Designed with advanced smart-building technologies and contemporary architectural expression, the project offers high-performance office spaces tailored for modern enterprises.\n\nPositioned within one of Dubai’s most established business districts, Me Do Re Business combines efficiency, connectivity, and long-term investment potential in a strategic freehold commercial location.",
+
+  "amenities_title": "Amenities and spaces designed for refined business use",
+  "amenities_1": "/images/projects/me-do-re-business/amenities_1.png",
+  "amenities_1_label": "Smart Access Control",
+  "amenities_2": "/images/projects/me-do-re-business/amenities_2.png",
+  "amenities_2_label": "High-Speed Elevators",
+  "amenities_3": "/images/projects/me-do-re-business/amenities_3.png",
+  "amenities_3_label": "Business Lounge & Meeting Areas",
+
+  "gallery_1": "/images/projects/me-do-re-business/gallery_1.png",
+  "gallery_2": "/images/projects/me-do-re-business/gallery_2.png",
+  "gallery_3": "/images/projects/me-do-re-business/gallery_3.png",
+
+  "project_summary_title": "Future-Ready Office Spaces",
+  "project_summary_subtitle": "Premium commercial investment in JLT",
+
+  "summary_delivery_value": "Q4 2026",
+  "summary_delivery_label": "Delivery Date",
+  "summary_developer_value": "Me Do Re Properties",
+  "summary_developer_label": "Developer",
+  "summary_type_value": "Commercial Offices",
+  "summary_type_label": "Property Type",
+  "summary_price_currency": "AED",
+  "summary_price_value": "1,100,000",
+  "summary_price_label": "Starting Price",
+
+  "units_gallery_1": "/images/projects/me-do-re-business/units_gallery_1.png",
+  "units_gallery_2": "/images/projects/me-do-re-business/units_gallery_2.png",
+  "units_gallery_3": "/images/projects/me-do-re-business/units_gallery_3.png",
+
+  "units_gallery_title": "Available Office Units",
+  "units_bed_main": "Office Units",
+  "units_bed_options": "",
+  "units_price_from": "AED 1,100,000",
+  "units_area_from": "From 620 SQFT",
+  "units_cta_text": "Book a consultation",
+
+  "map_title": "Location\nin Dubai",
+  "map_text": "Located in Jumeirah Lake Towers, Me Do Re Business benefits from direct access to Sheikh Zayed Road and proximity to Dubai Marina and DMCC Metro Station. The area is a recognized free zone hub, attracting international companies and entrepreneurs seeking strong commercial infrastructure.",
+  "map_address": "Jumeirah Lake Towers (JLT), Dubai",
+  "map_lat": 25.0798,
+  "map_lng": 55.1470,
+
+  "contact_form_title": "Ready to talk?",
+  "contact_form_phone_label": "Phone number",
+  "contact_form_cta_text": "Enquire Now",
+
+  "footer_project_name": "Me Do Re Business",
+  "footer_phone": "+971 54 548 6278",
+  "footer_cta_text": "Contact us",
+  "footer_powered_text": "Powered by Zack AI",
+  "footer_tagline": "Smart commercial offices in Jumeirah Lake Towers"
+}

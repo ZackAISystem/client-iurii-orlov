@@ -1,0 +1,74 @@
+{
+  "project_name": "Marriott Residences JLT",
+
+  "cta_whatsapp_phone": "971545486278",
+  "cta_whatsapp_message": "Hello, I am interested in Marriott Residences JLT. Please contact me.",
+  "whatsapp_url": "https://wa.me/971545486278?text=Hello%2C%20I%20am%20interested%20in%20Marriott%20Residences%20JLT.%20Please%20contact%20me.",
+
+  "hero_image": "/images/projects/marriott-residences-jlt/hero.png",
+  "intro_image": "/images/projects/marriott-residences-jlt/intro.png",
+  "final_image": "/images/projects/marriott-residences-jlt/final.png",
+
+  "qr_image": "/qr/marriott-residences-jlt-qr.png",
+
+  "hero_cta_text": "Learn More",
+  "hero_fact_1_label": "Delivery Date",
+  "hero_fact_1_value": "June 2027",
+  "hero_fact_2_label": "Price from",
+  "hero_fact_2_value": "AED 2,100,000",
+
+  "project_info_title": "Grand Lakeside Living in Jumeirah Lake Towers",
+  "project_info_text": "Marriott Residences JLT by Saba Properties introduces branded residential living in the heart of Jumeirah Lake Towers. Rising 51 storeys above the community, the tower offers refined 1, 2, and 3-bedroom apartments designed with premium finishes and spacious layouts.\n\nOverlooking the serene lakes of JLT, the development blends contemporary architecture with the reliability of the Marriott brand, creating an address that appeals to both end-users and long-term investors seeking strong rental demand in a central Dubai location.",
+
+  "amenities_title": "Amenities and spaces designed for refined living",
+  "amenities_1": "/images/projects/marriott-residences-jlt/amenities_1.png",
+  "amenities_1_label": "Infinity Pool & Sun Deck",
+  "amenities_2": "/images/projects/marriott-residences-jlt/amenities_2.png",
+  "amenities_2_label": "Fully Equipped Gym",
+  "amenities_3": "/images/projects/marriott-residences-jlt/amenities_3.png",
+  "amenities_3_label": "Residents Lounge & Concierge",
+
+  "gallery_1": "/images/projects/marriott-residences-jlt/gallery_1.png",
+  "gallery_2": "/images/projects/marriott-residences-jlt/gallery_2.png",
+  "gallery_3": "/images/projects/marriott-residences-jlt/gallery_3.png",
+
+  "project_summary_title": "Branded Residences in JLT",
+  "project_summary_subtitle": "Modern lakefront living with global standards",
+
+  "summary_delivery_value": "June 2027",
+  "summary_delivery_label": "Delivery Date",
+  "summary_developer_value": "Saba Properties",
+  "summary_developer_label": "Developer",
+  "summary_type_value": "Apartment",
+  "summary_type_label": "Property Type",
+  "summary_price_currency": "AED",
+  "summary_price_value": "2,100,000",
+  "summary_price_label": "Starting Price",
+
+  "units_gallery_1": "/images/projects/marriott-residences-jlt/units_gallery_1.png",
+  "units_gallery_2": "/images/projects/marriott-residences-jlt/units_gallery_2.png",
+  "units_gallery_3": "/images/projects/marriott-residences-jlt/units_gallery_3.png",
+
+  "units_gallery_title": "Available Units",
+  "units_bed_main": "1 Bedroom",
+  "units_bed_options": "2|3",
+  "units_price_from": "AED 2,100,000",
+  "units_area_from": "From 889 SQFT",
+  "units_cta_text": "Book a consultation",
+
+  "map_title": "Location\nin Dubai",
+  "map_text": "Located in Jumeirah Lake Towers, Marriott Residences JLT enjoys direct access to Sheikh Zayed Road and close proximity to Dubai Marina, Palm Jumeirah, and Downtown Dubai. The community offers waterfront promenades, retail, dining, and metro connectivity, making it one of Dubai’s most established residential hubs.",
+  "map_address": "Jumeirah Lake Towers (JLT), Dubai",
+  "map_lat": 25.0796,
+  "map_lng": 55.1468,
+
+  "contact_form_title": "Have a question?",
+  "contact_form_phone_label": "Phone number",
+  "contact_form_cta_text": "Enquire Now",
+
+  "footer_project_name": "Marriott Residences JLT",
+  "footer_phone": "+971 54 548 6278",
+  "footer_cta_text": "Contact us",
+  "footer_powered_text": "Powered by Zack AI",
+  "footer_tagline": "Branded lakefront apartments in Jumeirah Lake Towers"
+}
